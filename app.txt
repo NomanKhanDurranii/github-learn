@@ -1,2 +1,2 @@
-print ("hello world")
+print ("Started task 1")
 function calculate fees (functionality)
